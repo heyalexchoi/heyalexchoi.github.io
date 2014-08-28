@@ -1,16 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[Alex Choi]]></title>
   <link href="http://heyalexchoi.github.io/atom.xml" rel="self"/>
   <link href="http://heyalexchoi.github.io/"/>
-  <updated>2014-08-27T18:40:41-04:00</updated>
+  <updated>2014-08-27T21:01:21-04:00</updated>
   <id>http://heyalexchoi.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Alex Choi]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Hello World]]></title>
+    <link href="http://heyalexchoi.github.io/blog/2014/08/27/hello-world/"/>
+    <updated>2014-08-27T19:49:23-04:00</updated>
+    <id>http://heyalexchoi.github.io/blog/2014/08/27/hello-world</id>
+    <content type="html"><![CDATA[<p>I set up my first blog / personal webpage today. I registered <a href="heyalexchoi.com">this domain</a>, set up a github page, puzzled over DNS terminology, and toyed around with various tools (metalsmith, wintersmith, jekyll) before finally settling with Octopress / Jekyll.</p>
+
+<p><img src="http://gracca.github.io/images/octopress_github.png" alt="" />      <sub>          Dawwww.  </sub></p>
+
+<p>I <em>was</em> hoping to use a node.js tool to avoid <a href="https://www.youtube.com/watch?v=1NyzQwwO4Os"><strong><em>that whole Ruby thing</em></strong></a> which is what drove me to look into metalsmith and wintersmith in the first place. But, <!-- more --> in light of my inexperience with building webpages, and my use case (publishing my inane thoughts for nobody to read, with minimal programming), I decided to bite the bullet and go ahead with Jekyll/Octopress. I mean, look at those dang stars (<a href="https://github.com/jekyll/jekyll">&lt;16k</a> and <a href="https://github.com/imathis/octopress">&lt;8K</a>, respectively). If there&rsquo;s anything I&rsquo;ve learned in my notable 26 years (and god knows how I struggle to learn anything at all), it&rsquo;s that <strong>by definition</strong> <strong><em>the masses are always right</em></strong>.</p>
+
+<p>And about <strong><em>that whole Ruby thing</em></strong>. I kid. At least one of my professional <a href="https://github.com/mattt">role models</a> (role model is probably too strong a term, considering this is in the context of my professional life) is/seems-to-be <strong><em>categorizable as</em></strong> (we have never spoken) a Rubyist. iOS development puts food in my mouth and a roof over my head (forensic evidence would indicate that I live and eat like a homeless person), and dim as I am, even I can see how much the iOS dev community has benefitted from <strong><em>that Ruby thing</em></strong>. Even if they do prefer to write in squiggly python.</p>
+]]></content>
+  </entry>
   
 </feed>
